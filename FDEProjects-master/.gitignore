@@ -1,0 +1,12 @@
+# Local environment (never commit real keys)
+.env
+
+# Virtual environments
+.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/

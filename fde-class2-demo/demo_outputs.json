@@ -1,0 +1,20 @@
+{
+  "C1": {
+    "draft_reply": "I'm sorry to hear the zip on your jacket arrived broken. Since this was reported within two days of delivery, I'm referring your case for human return review. Please note this does not mean a refund has been approved yet — a member of our team will confirm next steps shortly.",
+    "evidence_refs": ["P1"],
+    "missing_information": [],
+    "review_status": "READY_FOR_HUMAN_REVIEW"
+  },
+  "C2": {
+    "draft_reply": "I'm sorry to hear about the broken zip on your jacket. To check whether this can be referred for return review under our two-day policy, could you please confirm the date your order was delivered?",
+    "evidence_refs": ["P2"],
+    "missing_information": ["delivery_date"],
+    "review_status": "NEEDS_INFORMATION"
+  },
+  "C3": {
+    "draft_reply": "Thanks for checking in. Your replacement request is still under review, so I'm not able to confirm that the issue is resolved yet. A member of our team will follow up with an update as soon as the review is complete.",
+    "evidence_refs": ["P3"],
+    "missing_information": [],
+    "review_status": "READY_FOR_HUMAN_REVIEW"
+  }
+}
